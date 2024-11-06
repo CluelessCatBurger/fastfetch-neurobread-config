@@ -5,6 +5,8 @@
   <img src="./img/neurobreadge2.png" style="width: 100%;">
 </p>
 
+Original art by [paccha](https://linktr.ee/paccha_)
+
 ## How to use
 
 ```sh
